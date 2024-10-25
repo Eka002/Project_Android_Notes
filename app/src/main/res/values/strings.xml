@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My 1.1</string>
+    <string name="main_label">Список дел</string>
+    <string name="btn_1">Добавить</string>
+    <string name="user_data">Введите текст</string>
+</resources>
